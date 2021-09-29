@@ -27,8 +27,8 @@
 #### 6. insatll the mysql, and set up and login as root user
 
 #### 7. create tables user and todo
-> **create database todo_app;**
-> **use todo_app**
+> **create database todo_app;**\
+> **use todo_app**\
 > **create table user(first_name varchar(50) not null, last_name varchar(50) not null, username varchar(80) not null primary key, password varchar(50));**\
 > **create table todo(title varchar(50) not null, description text not null, uname varchar(80) not null, foreign key(uname) references user(username) on delete cascase);**
 
