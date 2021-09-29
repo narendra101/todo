@@ -24,6 +24,9 @@
 #### 5. clone the repository 
 > **git clone https://github.com/narendra101/todo.git**
 
+#### 6. cd in to install the requirements
+> **pip install -r requirements.txt**
+
 #### 6. insatll the mysql, and set up and login as root user
 
 #### 7. create tables user and todo
