@@ -1,6 +1,6 @@
 # DETAILS OF THE REPO
 
-## todo-application
+# todo-application
 
 ### USED TECHNOLOGIES
 1. python3
