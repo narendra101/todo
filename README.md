@@ -1,4 +1,4 @@
-# DETAILS OF THE REPO
+## DETAILS OF THE REPO
 
 # todo-application
 
