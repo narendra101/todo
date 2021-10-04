@@ -3,7 +3,7 @@
 # todo-application
 
 ### USED TECHNOLOGIES
-1. python3
+1. python 3.9
 2. flask
 3. html
 4. css
